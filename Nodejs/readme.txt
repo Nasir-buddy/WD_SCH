@@ -107,4 +107,4 @@ intermediate mognodb (not in this video)
         instagram 
         google photos 
         flipkart 
-        
+        switched to second application
