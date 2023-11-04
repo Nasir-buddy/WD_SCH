@@ -93,4 +93,18 @@ intermediate mognodb (not in this video)
     res.clearCookie("name");
 
 ----NEXT VIDEO ON -----
-
+--End Game part 2 --
+    flash messages 
+    intermediate mongodb 
+        How can I perform a case insensitive search in MOngoose?
+        How do I find documents where an array field contains all of a set of value?
+        How can I search for documents with a specific date range in Mongoose?
+        How can I filter documents based on the existence of a field's in Mongoose ? 
+    Authentication and authorization
+    choosing out project:
+        pinterest 
+        youtube music 
+        instagram 
+        google photos 
+        flipkart 
+        
